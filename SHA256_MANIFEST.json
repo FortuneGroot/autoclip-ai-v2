@@ -1,0 +1,146 @@
+{
+  "product": "AUTOCLIP AI V2",
+  "source_kit_version": "0.1.4",
+  "files": {
+    ".gitignore": {
+      "sha256": "48a11a6e01c2d63f053b1661838ba1a9f59986866cf362fbc6454fbe4134963e",
+      "bytes": 146
+    },
+    "Allow iPhone Access.bat": {
+      "sha256": "45fb4632bfcbb7f2f25e317d4075c38d610e5227959364f8195d96d8bbe9e870",
+      "bytes": 312
+    },
+    "Configure iPhone Firewall.ps1": {
+      "sha256": "cd87e936cdd72cbc3d5c7a30f1b08f475a02c5006d3d7389040a91773aca0395",
+      "bytes": 2800
+    },
+    "Create Desktop Shortcut.ps1": {
+      "sha256": "a588e0514488f2ec525add4d1056a01eb89ac25f388106f1cf9e05a819ac5e1a",
+      "bytes": 1077
+    },
+    "Install AUTOCLIP AI.bat": {
+      "sha256": "04eb990738d9456aae29db7fc0440aeccaec9eedf27d438386468185b87004b9",
+      "bytes": 2492
+    },
+    "LICENSE_REVIEW_REQUIRED.txt": {
+      "sha256": "b8db069c97d3610def971a8604ebe27ed394bdbe718cba0a6903ca2014640cc2",
+      "bytes": 312
+    },
+    "Launch AUTOCLIP AI for iPhone.bat": {
+      "sha256": "4986797bbdec59f15a53084fa2b7bd8e5383362ef8f76e4df3bb3eb2866db0fb",
+      "bytes": 595
+    },
+    "Launch AUTOCLIP AI.bat": {
+      "sha256": "b9e6ca1fc8b162d017f26427b33d7a2ef321e1ed315d461e49504cb7a0fa0d68",
+      "bytes": 334
+    },
+    "Open AUTOCLIP AI.vbs": {
+      "sha256": "4ca7c88c8fe605a4be6409b9fe230710932247fb3332eea8f1f237744cf7d159",
+      "bytes": 606
+    },
+    "README.md": {
+      "sha256": "45edc59f04c4e2cf09a58c493c73405238124351ca970d6845a09408a3d80808",
+      "bytes": 4641
+    },
+    "Run Tests.bat": {
+      "sha256": "4eb78d424c196c6836c8452ba836fbb4d522d2a9341f431c37c27ea29e2960e8",
+      "bytes": 622
+    },
+    "Start Local AI.ps1": {
+      "sha256": "eeefc128cbc0a0d9a11fffde819a9e6e970274b8fb3156ac28c74a7190c90b11",
+      "bytes": 1249
+    },
+    "Start iPhone Server.ps1": {
+      "sha256": "b7b20bd3ca004a3c667ca1b88aa8a54566c62acce29862a144c9c0dd43b800f4",
+      "bytes": 2426
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "sha256": "74a896de6e0c5558c9dc963ea6335d4f3af2f89b19f13c122749909771cdf507",
+      "bytes": 2159
+    },
+    "analysis/__init__.py": {
+      "sha256": "8ceef717c8411eff3f646ba69575f9fa22acaed3e34c90d107ae1d9ac4130052",
+      "bytes": 53
+    },
+    "analysis/revise_job.py": {
+      "sha256": "7227dac14b52a4e8f1c0ebe1fc334931facdc0c2bbacf3ca36f743c62ca32cd9",
+      "bytes": 10466
+    },
+    "app.py": {
+      "sha256": "035c74638d0aef9339b58365cfde0d67ef5bc812d7512b25cf3dca7ce29ef1e2",
+      "bytes": 11616
+    },
+    "core.py": {
+      "sha256": "4ea168dd3e08abef349fe1835ed7ec7c64b110116ac1e827ade750b2c833e514",
+      "bytes": 9834
+    },
+    "mobile/app.js": {
+      "sha256": "3587422f24bf295dcb9bb73f376059d64177acce1ceb54f49eea5f5cafb78db3",
+      "bytes": 10367
+    },
+    "mobile/autoclip.ico": {
+      "sha256": "69c2bfc730ec1f0dd0a694c183d45a80735ef63c134434d8df76f7186478dc82",
+      "bytes": 14060
+    },
+    "mobile/icon.png": {
+      "sha256": "9a3a07aa304a90346ec1526cdebf9702c0807ba87723a4a0d82b0462b74382be",
+      "bytes": 1326
+    },
+    "mobile/icon.svg": {
+      "sha256": "023038ee85182b919e14b6d4d0ef750c5aec7dfdea84d1484ce4057c6c938a61",
+      "bytes": 348
+    },
+    "mobile/index.html": {
+      "sha256": "98d77c9bfce2c601a2b8ad96b55b8810186a9e06a7860b785c5c8dc39bc00bc6",
+      "bytes": 2595
+    },
+    "mobile/manifest.webmanifest": {
+      "sha256": "f1ab5332ba7077ea4e879e4741b67b4f1bd379838096b50f4249d40695d789f3",
+      "bytes": 193
+    },
+    "mobile/style.css": {
+      "sha256": "1ec1e46f2ae557e678a2985683be7389260e3e62a144a065d247c7b79d5a09e3",
+      "bytes": 6252
+    },
+    "mobile_server.py": {
+      "sha256": "551bd349f0a61f763bb9c4380ab56b115e3ce20adf8b515ea794f80f72322815",
+      "bytes": 27309
+    },
+    "pipeline.py": {
+      "sha256": "372e61dd9e9bf3298f1ebb1fc1be639b4e7964c084f8cbc7b6dcb5e30704623b",
+      "bytes": 20731
+    },
+    "requirements.txt": {
+      "sha256": "9145ba23551d4bda9dffb337a237e39471a28b6b59e0e6828fb114e06d6782ef",
+      "bytes": 172
+    },
+    "tests/e2e_local.py": {
+      "sha256": "1bb3be480fc0be0b8774bb3841e46faa726c0d424760c15d95e089cbae545d15",
+      "bytes": 3658
+    },
+    "tests/e2e_mobile.py": {
+      "sha256": "48c08377cec101a04a21a5a5943f262de0facce3de8995b4024fbaff17c158f2",
+      "bytes": 2761
+    },
+    "tests/synthesize.ps1": {
+      "sha256": "f5e243136b5bec405a16d7614fbc1391019077b75fe0214e2c8cd85554009fdc",
+      "bytes": 352
+    },
+    "tests/test_core.py": {
+      "sha256": "9e6497b193e661e25c19e7d764df565a6c3491acd6e2c6b8060738f89a936486",
+      "bytes": 4417
+    },
+    "tests/test_media_smoke.py": {
+      "sha256": "d5e9979641b26f27467f5f632ff8c452dc29a6a19f2cefaa075ab96e8951867d",
+      "bytes": 1650
+    },
+    "tests/test_mobile_server.py": {
+      "sha256": "3fa0b14d9c1c8b6c346cf97de35d600383d471326aed738c159c919aa4c4cd52",
+      "bytes": 10442
+    },
+    "tests/test_refine.py": {
+      "sha256": "b40ba9cd768bdf6a5a3ec298ae0d4cae7c57eb1ddbbf7f3cf04d1d0be5401d50",
+      "bytes": 2635
+    }
+  }
+}

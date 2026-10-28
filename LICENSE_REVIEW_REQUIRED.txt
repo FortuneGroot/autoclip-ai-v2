@@ -1,0 +1,6 @@
+AUTOCLIP AI source kit - private review copy, version 0.1.1.
+
+This archive is a packaging candidate, not an authorized public release.
+The copyright owner and final commercial license terms must be confirmed
+before sale or redistribution. Third-party components have their own terms;
+see THIRD_PARTY_NOTICES.md.
